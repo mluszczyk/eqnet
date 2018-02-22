@@ -7,3 +7,4 @@ tqdm
 experimenter
 sklearn
 scipy
+sympy
