@@ -1,5 +1,6 @@
 seaborn
 matplotlib
+notebook
 numpy
 theano
 tqdm
